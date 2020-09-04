@@ -1,0 +1,54 @@
+h1{
+    font-size: 50px;
+    color: #5770de;
+    text-align: center;
+}
+
+.minha_foto{
+    
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.perfil{
+    text-align: center;
+}
+
+.sobremim {
+    color: green;
+    text-align: center;
+    font-size: 35px;
+}
+
+.profissao {
+    font-size: 35px;
+    color: #964B00;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    margin: 2%;
+}
+
+.flex img{
+    margin-left: 12%;
+}
+
+.hover:hover{
+    width: 240px;
+}
+
+ul li{
+    margin-right: 10%;
+    display: inline;
+    font-size: 20px;
+}
+
+.topo{
+    text-align: right;
+}
+
+video{
+    margin-left: 5%;
+}
